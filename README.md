@@ -37,7 +37,6 @@
   <img src="https://img.shields.io/badge/Netcat-black?style=for-the-badge">
 </p>
 
-
 <h1 align="center"><b>Contact Me:</b></h1>
 <p align="center">
   <a href="https://discord.gg/3wT6VRvU3r" style="text-decoration:underline;">
@@ -48,3 +47,7 @@
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge">
   </a>
 </p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jzboss3&show_icons=true&theme=gruvbox" alt="JZBOSS3's GitHub Stats" />
+</div>
