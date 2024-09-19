@@ -28,5 +28,23 @@
   </a>
 </p>   
 
-### Contact Me: [Discord](https://discord.gg/3wT6VRvU3r), [X](https://x.com/jzboss3?t=6T7IAf_uF1SMif3mYliEtg&s=08)
+<h1 align="center"><b>Most Used Tools</b></h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/burpSuite-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Metasploit-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Nmap-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SQLMap-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Netcat-black?style=for-the-badge">
+</p>
 
+
+<h1 align="center"><b>Contact Me:</b></h1>
+<p align="center">
+  <a href="https://discord.gg/3wT6VRvU3r" style="text-decoration:underline;">
+    <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord">
+  </a>
+
+  <a href="https://x.com/jzboss3?t=6T7IAf_uF1SMif3mYliEtg&s=08">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge">
+  </a>
+</p>
