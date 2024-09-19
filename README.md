@@ -20,10 +20,10 @@
 
 <h1 align="center"><b>Accounts:</b></h1>
 <p align="center">
-<a href="[https://TryHackMe.com](https://tryhackme.com/p/JZBOSS)">
+<a href="https://tryhackme.com/p/JZBOSS" target="_blank">
   <img src="https://img.shields.io/badge/TryHackMe-black?style=for-the-badge&logo=TryHackMe" alt="TryHackMe Badge">
 </a>
-  <a href="https://app.hackthebox.com/profile/1976479">
+  <a href="https://app.hackthebox.com/profile/1976479" target="_blank">
     <img src="https://img.shields.io/badge/HackTheBox-black?style=for-the-badge&logo=HackTheBox" alt="Hack The Box Badge">
   </a>
 </p>   
