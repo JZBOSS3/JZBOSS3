@@ -5,7 +5,7 @@
 <p align="center"><b>Knowledge = Intermidate</b></p>
 <p align="center"><b>Current Goals: Enhancing Pentesting Skills and Tools Development</b></p>
 
-<h1 align="center"><b>Languages and Tools:</b></h1>
+<h1 align="center"><b>Languages:</b></h1>
 <p align="center">
   <img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img  alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
